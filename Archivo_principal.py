@@ -7,8 +7,17 @@ def divir(a, b):
 
 print(divir(99,3))
 
+print("Funciones para el backend")
+def mostrar():
+    print("Parte funcional del backend")
+
+mostrar()
+
 print("Funciones del frontend")
 def despligue():
     print("Esta sección está dedicada a la visualización")
 
 despligue()
+
+
+
